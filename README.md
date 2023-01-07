@@ -6,6 +6,9 @@ A mobile-responsive, interactive Front-End Web App designed to make traveling sa
 ## URL of the deployed link:
 https://theanswer07.github.io/b4uboard/
 
+## URL of original repo with group/team commits:
+https://github.com/JackYouk/B4UBoard
+
 ## Our Team
 * @anuvytla (Anusha V.)
 * @Monkonjay (Robert M. G.)
