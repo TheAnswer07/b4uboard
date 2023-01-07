@@ -4,7 +4,7 @@
 A mobile-responsive, interactive Front-End Web App designed to make traveling safer and easier.
 
 ## URL of the deployed link:
-https://theanswer07.github.io/b4uboard/
+https://b4uboard.netlify.app/
 
 ## URL of original repo with group/team commits:
 https://github.com/JackYouk/B4UBoard
